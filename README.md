@@ -1,4 +1,4 @@
 # markdown-embed-image
 
 
-![firgur 11](img/Figur-1.jpg)
+![Billede alt tekst](img/Figur-1.jpg)
